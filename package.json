@@ -1,0 +1,14 @@
+{
+  "name": "alberto-website",
+  "version": "1.0.0",
+  "description": "Alberto Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Alberto Medellin",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
